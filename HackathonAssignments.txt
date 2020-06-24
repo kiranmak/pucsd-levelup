@@ -1,1 +1,22 @@
 Sample hackathon assignments
+
+1. Write a program that takes a word as input and prints all possible permutations of legal words that exist for a given dictionary. 
+
+2. Imagine you are bidding for cricketers in an IPL auction for your team. You have a given budget and your goal is to form a team based on your criteria. Write a program that will select the players for your team that meet your criteria at an optimal cost and within your budget. 
+
+Input:
+a. Pool of players available along with their attributes and cost
+b. No. of players that will be put for auction (may be less than the total pool size)
+c. Sequence of players that are put up auction
+d. Your team budget
+e. Your criteria in terms of player attributes
+
+Output:
+a. Names of players selected in your team
+b. Total expense 
+
+
+
+
+
+
